@@ -1,0 +1,25 @@
+Final Project
+
+Peter Goudy
+Code used from my assignment 3, which in turn was based off of example 15 that was provided to us.
+
+Shows a small scene of a house and a few trees, and a snowfall “simulation”. By pressing the bracket keys, one is able to change the rate of snowfall, or, if desired, the rate of melt. Snowfall levels are as follows:
+-4: Fastest melt
+-2: Medium melt
+-1: Slow melt
+0: No change
+1: Light snow
+2: Medium snow
+4: Heavy snow
+
+A particle system is in place to show the user the current rate of snowfall. Heavier snowfall is represented with more particles. Additionally, the light levels change depending on the setting. The heavier the snowfall, the less light there is all around. In turn, it also becomes brighter at the higher melt settings to represent stronger sun.
+
+Key bindings
+  p	     Pause the scene
+  [	     Decrease the rate of snowfall
+  ]	     Increase the rate of snowfall
+  n          Add snow manually
+  arrows     Change view angle
+  8/9  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
