@@ -1,6 +1,6 @@
 Final Project
 
-Peter Goudy
+P. Goudy
 Code used from my assignment 3, which in turn was based off of example 15 that was provided to us.
 
 Shows a small scene of a house and a few trees, and a snowfall “simulation”. By pressing the bracket keys, one is able to change the rate of snowfall, or, if desired, the rate of melt. Snowfall levels are as follows:
